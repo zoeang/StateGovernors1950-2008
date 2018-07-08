@@ -1,0 +1,508 @@
+File Manifest for ICPSR 13
+
+Inter-university Consortium for Political and Social Research. General
+Election Data for the United States, 1950-1990. ICPSR00013-v2. Ann Arbor,
+MI: Inter-university Consortium for Political and Social Research
+[distributor], 2013-11-22. http://doi.org/10.3886/ICPSR00013.v2
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    00013-descriptioncitation.pdf       -       -         -       2016-04-27  -
+
+    00013-related_literature.txt        -       -         -       daily       -
+
+    00013-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 National, 1974
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    00013-0001-Codebook.pdf             -       -         -       2013-11-22  4759659870974d38e0df0d4eee274430
+
+    00013-0001-Data.dta                 -       3,136     153     2013-11-22  108aeb13006123830501e4a05895463e
+
+    00013-0001-Data.rda                 -       3,136     153     2013-11-22  93af6eeefb15f4372643b90b0958e94f
+
+    00013-0001-Data.sav                 -       3,136     153     2013-11-22  8586d685eb991e17fecb45b76d54fe06
+
+    00013-0001-Data.stc                 -       3,136     153     2013-11-22  bceb65595e401ba5a5dfe7063977ce88
+
+    00013-0001-Data.tsv                 -       3,136     153     2013-11-22  281e58c199730325675d193bc7b85e5a
+
+    00013-0001-Data.txt                 1063    3,136     153     2013-11-22  b121dcaa5572c079eff4e4826da587b9
+
+    00013-0001-Setup.dct                -       -         -       2013-11-22  0a15ec90064044639f68fd485103eef3
+
+    00013-0001-Setup.do                 -       -         -       2013-11-22  3b300ffd286a08d018874dec283a0912
+
+    00013-0001-Setup.sas                -       -         -       2013-11-22  3fb0e67af92a7c078a9177f1a6ea11f8
+
+    00013-0001-Setup.sps                -       -         -       2013-11-22  8bb200c073a29b4cd8d3717e971a3f19
+
+    00013-0001-Supplemental_syntax.do   -       -         -       2013-11-22  0ecd5907368d8c8a5e25c385dea116d1
+
+    00013-0001-Supplemental_syntax.sas  -       -         -       2013-11-22  9ccd2a3a22dfca460d717677a2af358e
+
+
+DS0002 National, 1976
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    00013-0002-Codebook.pdf             -       -         -       2013-11-22  9df671d78198f214f676c80db66b4ac0
+
+    00013-0002-Data.dta                 -       3,136     171     2013-11-22  ca8e43efbfe8d6eaeb929f05dad72f53
+
+    00013-0002-Data.rda                 -       3,136     171     2013-11-22  5c224bc4850e85fc8a1abd835258892a
+
+    00013-0002-Data.sav                 -       3,136     171     2013-11-22  013caa79b93f25fd13eb11a6ca272749
+
+    00013-0002-Data.stc                 -       3,136     171     2013-11-22  3017aa988efd98ca248977baf192a168
+
+    00013-0002-Data.tsv                 -       3,136     171     2013-11-22  0c9f3777f3387f1b7b264ee05ef6d624
+
+    00013-0002-Data.txt                 1189    3,136     171     2013-11-22  d6adc3ebb0aa48dbf29bf4c6e5f7ee1e
+
+    00013-0002-Setup.dct                -       -         -       2013-11-22  640bcbf816abb6b7e791fda099499968
+
+    00013-0002-Setup.do                 -       -         -       2013-11-22  1aef83ca16fe81417d17648092554713
+
+    00013-0002-Setup.sas                -       -         -       2013-11-22  311475cbaf23269cd5bb6c3b8c1aa13a
+
+    00013-0002-Setup.sps                -       -         -       2013-11-22  b034b1fad51b6ba13a39e16198a4496c
+
+    00013-0002-Supplemental_syntax.do   -       -         -       2013-11-22  56eb01e95fa7e7bd13383982a23173b1
+
+    00013-0002-Supplemental_syntax.sas  -       -         -       2013-11-22  2610570252c4c049b1af46271b3e4aa5
+
+
+DS0003 National, 1950-1972
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    00013-0003-Codebook.pdf             -       -         -       2013-11-22  48167b21deb7c7ae3be57c32c1871496
+
+    00013-0003-Data.dta                 -       3,145     346     2013-11-22  691172527a1810ad4cd9b66502a1bd9f
+
+    00013-0003-Data.rda                 -       3,145     346     2013-11-22  089e72c9c9c71f75977743798a189a15
+
+    00013-0003-Data.sav                 -       3,145     346     2013-11-22  0ac9433de4f50b92c5a2f4c3131ac0ef
+
+    00013-0003-Data.stc                 -       3,145     346     2013-11-22  79705786a060059e2e68e0ced12a91ba
+
+    00013-0003-Data.tsv                 -       3,145     346     2013-11-22  bc15407ed919a32f85d5ab36c36fbed6
+
+    00013-0003-Data.txt                 2093    3,145     346     2013-11-22  3d7888e9b4b23d28d416b81f7208e9ee
+
+    00013-0003-Setup.dct                -       -         -       2013-11-22  d36ab7d60bfab598b471eb7d26f838a7
+
+    00013-0003-Setup.do                 -       -         -       2013-11-22  9a9e8035bcacea4f83964f98347dc21d
+
+    00013-0003-Setup.sas                -       -         -       2013-11-22  3f411fdb4ca263ca2489fceae360a6da
+
+    00013-0003-Setup.sps                -       -         -       2013-11-22  42b800b354ed6b6a8d2190847bc5c9f5
+
+    00013-0003-Supplemental_syntax.do   -       -         -       2013-11-22  fdb12e475d199ce8943622d3b1324da6
+
+    00013-0003-Supplemental_syntax.sas  -       -         -       2013-11-22  ca9ce4f940c0ac426d25392ee0a22813
+
+
+DS0004 National, 1974 and 1976
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    00013-0004-Codebook.pdf             -       -         -       2013-11-22  579c53de94338e4f09f29c1310dd406b
+
+    00013-0004-Data.dta                 -       3,136     321     2013-11-22  3c515b94c4a7035d03c65c7a7167d6bd
+
+    00013-0004-Data.rda                 -       3,136     321     2013-11-22  eb06f02aa8bcad48fbd49d6e2070da0e
+
+    00013-0004-Data.sav                 -       3,136     321     2013-11-22  132111e2e62eb4087bb31c70163b2ef7
+
+    00013-0004-Data.stc                 -       3,136     321     2013-11-22  0232601e7561ea0ec4539123d510f4c3
+
+    00013-0004-Data.tsv                 -       3,136     321     2013-11-22  f3c683087c3919efd388a2ac45f57de5
+
+    00013-0004-Data.txt                 2229    3,136     321     2013-11-22  c17b57032c6078cf0d03d6073cb7aedd
+
+    00013-0004-Setup.dct                -       -         -       2013-11-22  4911a30de5a076707292ab3a7d4cce2a
+
+    00013-0004-Setup.do                 -       -         -       2013-11-22  fd399f230494e96bced92eea8bd0ff8f
+
+    00013-0004-Setup.sas                -       -         -       2013-11-22  2b45bc694a70a520d601887d0f98ea8f
+
+    00013-0004-Setup.sps                -       -         -       2013-11-22  8575ac6dc99f8a304aa6723ef19a55dc
+
+    00013-0004-Supplemental_syntax.do   -       -         -       2013-11-22  e7ad1a195b1775b7f487267b07ec0565
+
+    00013-0004-Supplemental_syntax.sas  -       -         -       2013-11-22  6108291968811ca16bde5f74632ed594
+
+
+DS0005 National, 1978
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    00013-0005-Codebook.pdf             -       -         -       2013-11-22  e2567384e4d00dbc3e13ae4c1aa07934
+
+    00013-0005-Data.dta                 -       3,134     144     2013-11-22  020c88e936158741bbcc887dfeb7ddae
+
+    00013-0005-Data.rda                 -       3,134     144     2013-11-22  7ee0183f59eb994d969526fe70325ac2
+
+    00013-0005-Data.sav                 -       3,134     144     2013-11-22  4f9d0d6b8a112fd0d65bffba1a534be3
+
+    00013-0005-Data.stc                 -       3,134     144     2013-11-22  2b5c619611ae6acf386025e70dd58b4e
+
+    00013-0005-Data.tsv                 -       3,134     144     2013-11-22  65ec695f4f2aecc0426787b7808da89a
+
+    00013-0005-Data.txt                 1003    3,134     144     2013-11-22  1dcd393918f5f2d6a5748e783fe2399b
+
+    00013-0005-Setup.dct                -       -         -       2013-11-22  fc167e9bdfec1869562fd07a94c82604
+
+    00013-0005-Setup.do                 -       -         -       2013-11-22  e5102c86e868bc58d56b346961e5776f
+
+    00013-0005-Setup.sas                -       -         -       2013-11-22  e6506b54f2eba1c2abd68e1c4cbf5aa8
+
+    00013-0005-Setup.sps                -       -         -       2013-11-22  1ea8d1130c4af1d71a531e782c535399
+
+    00013-0005-Supplemental_syntax.do   -       -         -       2013-11-22  b8c6a7a216f6773b24bfbe994dbca412
+
+    00013-0005-Supplemental_syntax.sas  -       -         -       2013-11-22  e60c7ec9f67700a2cdc7da2a9c7eecf5
+
+
+DS0006 National, 1980
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    00013-0006-Codebook.pdf             -       -         -       2013-11-22  0b59b91b6cb030c9e5203d202430dca0
+
+    00013-0006-Data.dta                 -       3,133     127     2013-11-22  d25abb9e2e0c070e3bad7aa8c29f7fe2
+
+    00013-0006-Data.rda                 -       3,133     127     2013-11-22  2d52ad1ef4e8fa91773eb539da75c92f
+
+    00013-0006-Data.sav                 -       3,133     127     2013-11-22  fa6e33ff6ca0089a368bf282d46aa806
+
+    00013-0006-Data.stc                 -       3,133     127     2013-11-22  681864706f689762115da3f7285669ae
+
+    00013-0006-Data.tsv                 -       3,133     127     2013-11-22  83bbf3d247f6b24ac12e374f0d61abf7
+
+    00013-0006-Data.txt                 884     3,133     127     2013-11-22  e3914e390ddc55cc5a4352aa83ed5b61
+
+    00013-0006-Setup.dct                -       -         -       2013-11-22  86a5f314e7f04adca52b98261e13708f
+
+    00013-0006-Setup.do                 -       -         -       2013-11-22  02e7962611881da72dedd94578e59b05
+
+    00013-0006-Setup.sas                -       -         -       2013-11-22  b64549d9833e1fbbffd32c5fd1483ceb
+
+    00013-0006-Setup.sps                -       -         -       2013-11-22  98ded099ea6ec882a75eb46e4141b67f
+
+    00013-0006-Supplemental_syntax.do   -       -         -       2013-11-22  c4883e4616b26d05ff690fdcdc91d64f
+
+    00013-0006-Supplemental_syntax.sas  -       -         -       2013-11-22  710f2a4bb44042256568c265bd84261d
+
+
+DS0007 National, 1981
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    00013-0007-Codebook.pdf             -       -         -       2013-11-22  8efc0042971329bd8e8771dc67a8fd06
+
+    00013-0007-Data.dta                 -       409       31      2013-11-22  b48535de905559d087973a62ac811466
+
+    00013-0007-Data.rda                 -       409       31      2013-11-22  f3df97d20a3a002eb9ecc6db47c0f431
+
+    00013-0007-Data.sav                 -       409       31      2013-11-22  1116bb6c8a36efff78b296e2149f84b4
+
+    00013-0007-Data.stc                 -       409       31      2013-11-22  c05678381e254ebd8ec785e8abb03c4a
+
+    00013-0007-Data.tsv                 -       409       31      2013-11-22  5170520f90aeb57cca161890d98fcc56
+
+    00013-0007-Data.txt                 212     409       31      2013-11-22  4c0d15693aebcb5abbad8aae913384f1
+
+    00013-0007-Setup.dct                -       -         -       2013-11-22  2835184fdb5fc453e141e20e72a0b09a
+
+    00013-0007-Setup.do                 -       -         -       2013-11-22  3fb720bc5d09888693a33e9279fdc45c
+
+    00013-0007-Setup.sas                -       -         -       2013-11-22  f04310a85dfaae70406c08c9657b6cc2
+
+    00013-0007-Setup.sps                -       -         -       2013-11-22  099000d37a9e7fc7396b8579f14f1623
+
+    00013-0007-Supplemental_syntax.do   -       -         -       2013-11-22  8a8d0c4f493222550cc2ed0b907c8312
+
+    00013-0007-Supplemental_syntax.sas  -       -         -       2013-11-22  ce4f298048fddee6b29f144a2175cbc5
+
+
+DS0008 National, 1982
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    00013-0008-Codebook.pdf             -       -         -       2013-11-22  1a699675f0f696c7ea74eec1ae94e94b
+
+    00013-0008-Data.dta                 -       3,139     144     2013-11-22  e14dcc499877dc33982ccb354a0d6a65
+
+    00013-0008-Data.rda                 -       3,139     144     2013-11-22  7335cea37faa8ad41fa6485988d4c486
+
+    00013-0008-Data.sav                 -       3,139     144     2013-11-22  1557b21c4d831082e060e3126dc03b00
+
+    00013-0008-Data.stc                 -       3,139     144     2013-11-22  ec84dbd20f5a79af1afc1063b6a05028
+
+    00013-0008-Data.tsv                 -       3,139     144     2013-11-22  f86ad98e5a94ff66bfd53264073d91f1
+
+    00013-0008-Data.txt                 1003    3,139     144     2013-11-22  9193c3df901bb96fe92c984628fe3eba
+
+    00013-0008-Setup.dct                -       -         -       2013-11-22  f9fd33d7e2ee2bbdc21edffc346ebcd6
+
+    00013-0008-Setup.do                 -       -         -       2013-11-22  6da3de18225d6d9dbd3915975ad9dea7
+
+    00013-0008-Setup.sas                -       -         -       2013-11-22  8a40aaecd8f4adc13e0b9cc1c30f9053
+
+    00013-0008-Setup.sps                -       -         -       2013-11-22  26234d320f86f5817baabfd52fbf4553
+
+    00013-0008-Supplemental_syntax.do   -       -         -       2013-11-22  561ab62f5ab09a15c782684db80bcd6e
+
+    00013-0008-Supplemental_syntax.sas  -       -         -       2013-11-22  dc5be8e4f7ec71888fffdce08a1a9d52
+
+
+DS0009 National, 1983
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    00013-0009-Codebook.pdf             -       -         -       2013-11-22  6ad0a2dc1476e69022bea46fe2d52682
+
+    00013-0009-Data.dta                 -       266       23      2013-11-22  21496de70d2576a10595fdbff413a212
+
+    00013-0009-Data.rda                 -       266       23      2013-11-22  afa9f034121c5705c1ee60d57be4f745
+
+    00013-0009-Data.sav                 -       266       23      2013-11-22  2a85b501d8cae0a9f61ec5e54c236f10
+
+    00013-0009-Data.stc                 -       266       23      2013-11-22  958e1601e0cbc794201f31472a02608a
+
+    00013-0009-Data.tsv                 -       266       23      2013-11-22  a7abe9104a6d76a28da398ecef41a220
+
+    00013-0009-Data.txt                 156     266       23      2013-11-22  1402bd560349c568347cd6302912d0c6
+
+    00013-0009-Setup.dct                -       -         -       2013-11-22  8fae37b7b41a97eacc58b17f92a2eb4b
+
+    00013-0009-Setup.do                 -       -         -       2013-11-22  0c52dd269c7ce2f4844643a98cf9ffca
+
+    00013-0009-Setup.sas                -       -         -       2013-11-22  2806bbb9c7ee0c44172d05c17ae3363d
+
+    00013-0009-Setup.sps                -       -         -       2013-11-22  6dcab9f48614d15aba6e16b289dd4889
+
+    00013-0009-Supplemental_syntax.do   -       -         -       2013-11-22  8f0abda512c50500f20fb75c503fe9fb
+
+    00013-0009-Supplemental_syntax.sas  -       -         -       2013-11-22  c3476c32c40e535277050fa4096dff5a
+
+
+DS0010 National, 1984
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    00013-0010-Codebook.pdf             -       -         -       2013-11-22  1631f61a60a6a3616ab5a24bbd735e8c
+
+    00013-0010-Data.dta                 -       3,141     165     2013-11-22  0edf5d54f4405d334a3a3a356d09064b
+
+    00013-0010-Data.rda                 -       3,141     165     2013-11-22  3eba956240c6552d1bbb19fcbe30ebc2
+
+    00013-0010-Data.sav                 -       3,141     165     2013-11-22  6cb406ebeb60e1faca0aeb139b7b6b1f
+
+    00013-0010-Data.stc                 -       3,141     165     2013-11-22  3e42402d358a3ea94c95ce0c2cbd4497
+
+    00013-0010-Data.tsv                 -       3,141     165     2013-11-22  2d5f70aef2c83bc0890320fb64bd2681
+
+    00013-0010-Data.txt                 1150    3,141     165     2013-11-22  030cb23b041bd3154d1976c140bdc8ad
+
+    00013-0010-Setup.dct                -       -         -       2013-11-22  ba929d2e2ab060ab80799510373ef09d
+
+    00013-0010-Setup.do                 -       -         -       2013-11-22  6dc5cd05fb64fca8f4190a93e0dec196
+
+    00013-0010-Setup.sas                -       -         -       2013-11-22  c08544b9eab763306e74b98eacefaec1
+
+    00013-0010-Setup.sps                -       -         -       2013-11-22  b69d28588aa588d147cb05f1268a02a6
+
+    00013-0010-Supplemental_syntax.do   -       -         -       2013-11-22  254fbe2ec3bc9234ced2707b0c69eeaa
+
+    00013-0010-Supplemental_syntax.sas  -       -         -       2013-11-22  9c262d9c3f7e72fb30dcfcfc0a6272cf
+
+
+DS0011 National, 1985
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    00013-0011-Codebook.pdf             -       -         -       2013-11-22  d9de2933a280ee3e9237966cc9840514
+
+    00013-0011-Data.dta                 -       192       23      2013-11-22  3cb51042aa64122d399a137aabf2244c
+
+    00013-0011-Data.rda                 -       192       23      2013-11-22  d6204d370ae21c07332513539c045305
+
+    00013-0011-Data.sav                 -       192       23      2013-11-22  1506d88425140e7c8a4a7df650ad1e43
+
+    00013-0011-Data.stc                 -       192       23      2013-11-22  7ddd4634cd021c2b3a0293fd971366e1
+
+    00013-0011-Data.tsv                 -       192       23      2013-11-22  eb6e15bb5fc7f2097e3282ea03dcc0e2
+
+    00013-0011-Data.txt                 157     192       23      2013-11-22  d04357f75ce3f3b7b1762c3d8f55945a
+
+    00013-0011-Setup.dct                -       -         -       2013-11-22  90217df9d22bcaec85e5aeec47582e96
+
+    00013-0011-Setup.do                 -       -         -       2013-11-22  312e8988e296a1998e3e8e87c4be51c9
+
+    00013-0011-Setup.sas                -       -         -       2013-11-22  3fe42cebfc6bc06719837fa599da598c
+
+    00013-0011-Setup.sps                -       -         -       2013-11-22  05f846fe27a14077b2516b6b22042b30
+
+    00013-0011-Supplemental_syntax.do   -       -         -       2013-11-22  e8c773d9f0ab4d093edbf74f5d37d48f
+
+    00013-0011-Supplemental_syntax.sas  -       -         -       2013-11-22  fdc64da5840986493c7c23f6c663c6aa
+
+
+DS0012 National, 1986
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    00013-0012-Codebook.pdf             -       -         -       2013-11-22  7b4b5a9b47a7f38fa3f75aeb711401f9
+
+    00013-0012-Data.dta                 -       3,140     127     2013-11-22  b03cc991a25f5a0e3ac475ebcd138529
+
+    00013-0012-Data.rda                 -       3,140     127     2013-11-22  104fae3de528df7b26365c7f9b837e39
+
+    00013-0012-Data.sav                 -       3,140     127     2013-11-22  e72f60fab154b666ae74ae80473da56c
+
+    00013-0012-Data.stc                 -       3,140     127     2013-11-22  1bc55b11176ea70130c5a09e46e6749c
+
+    00013-0012-Data.tsv                 -       3,140     127     2013-11-22  1013a7883db3352fd5f15c967ffd03c8
+
+    00013-0012-Data.txt                 885     3,140     127     2013-11-22  6636354b50bfd41debce502c93dc5815
+
+    00013-0012-Setup.dct                -       -         -       2013-11-22  a1dcc05e3453ba367cd4d89060f285fb
+
+    00013-0012-Setup.do                 -       -         -       2013-11-22  25a2691547ed5de4efa2b7790887bca5
+
+    00013-0012-Setup.sas                -       -         -       2013-11-22  05939c5c1e5c98d73b25cf046892c876
+
+    00013-0012-Setup.sps                -       -         -       2013-11-22  735b7b6539010aba3e19059f6ceed82a
+
+    00013-0012-Supplemental_syntax.do   -       -         -       2013-11-22  6790f9f73201532c5a8fcbf02be0e467
+
+    00013-0012-Supplemental_syntax.sas  -       -         -       2013-11-22  7ee5e8669f8d7613ab3347d5fd0980bb
+
+
+DS0013 National, 1987
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    00013-0013-Codebook.pdf             -       -         -       2013-11-22  2ca31a9346594e8289f7bab22120d478
+
+    00013-0013-Data.dta                 -       268       26      2013-11-22  fedb092085883612a4a669cfb9f573b9
+
+    00013-0013-Data.rda                 -       268       26      2013-11-22  75b2935892dfd3e3c93f1bf2a47c2bdb
+
+    00013-0013-Data.sav                 -       268       26      2013-11-22  4990d914d1da7f9a988220e6de7d5a95
+
+    00013-0013-Data.stc                 -       268       26      2013-11-22  610b8cfa458b1fd41d355d8ec5de3bf8
+
+    00013-0013-Data.tsv                 -       268       26      2013-11-22  2ac08481663e530670a5eeb32dbb8cce
+
+    00013-0013-Data.txt                 178     268       26      2013-11-22  21ce3b85b6e9aced8a35c6a923c33ab4
+
+    00013-0013-Setup.dct                -       -         -       2013-11-22  3a175423d7742c0513d259321b7bdd1a
+
+    00013-0013-Setup.do                 -       -         -       2013-11-22  54fc1eb98af24e351f3a81d02c2a7a83
+
+    00013-0013-Setup.sas                -       -         -       2013-11-22  8ba83c1ad0925fc6a320860d50026aee
+
+    00013-0013-Setup.sps                -       -         -       2013-11-22  66135c6c9333249ffb3e63212e771043
+
+    00013-0013-Supplemental_syntax.do   -       -         -       2013-11-22  6b5fe0ba5dc3c072da7664816782b994
+
+    00013-0013-Supplemental_syntax.sas  -       -         -       2013-11-22  c0e7d30a9303dfccd87a8b75f56ce102
+
+
+DS0014 National, 1988
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    00013-0014-Codebook.pdf             -       -         -       2013-11-22  fa75149e1793513193c674474e83cb2e
+
+    00013-0014-Data.dta                 -       3,140     145     2013-11-22  d8c49887419a021d9d42bf91db040700
+
+    00013-0014-Data.rda                 -       3,140     145     2013-11-22  c262391ff41ce00696cc57fd37313ada
+
+    00013-0014-Data.sav                 -       3,140     145     2013-11-22  a8ec970fa6f018af13f53a8612249181
+
+    00013-0014-Data.stc                 -       3,140     145     2013-11-22  a0825455f0a59a76bd7f4ed113264ece
+
+    00013-0014-Data.tsv                 -       3,140     145     2013-11-22  c6d0698ed363d73b2053ae88d238da0f
+
+    00013-0014-Data.txt                 995     3,140     145     2013-11-22  fc4fe5f823b00491f6166718a2f91e0f
+
+    00013-0014-Setup.dct                -       -         -       2013-11-22  b84269a17f78db0789ee76cbced56e26
+
+    00013-0014-Setup.do                 -       -         -       2013-11-22  f8e57881ad79e40eec56a9df1ad5b06f
+
+    00013-0014-Setup.sas                -       -         -       2013-11-22  7633cb4362cbe13b663bc06f0ad6ef4a
+
+    00013-0014-Setup.sps                -       -         -       2013-11-22  2509f9cf4d620325c3c9520e74d33b54
+
+    00013-0014-Supplemental_syntax.do   -       -         -       2013-11-22  205ca0210c4053a4d945e86fb8749abf
+
+    00013-0014-Supplemental_syntax.sas  -       -         -       2013-11-22  a56d12957d14a9e2723203d68d8da490
+
+
+DS0015 National, 1990
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    00013-0015-Codebook.pdf             -       -         -       2013-11-22  501a4ee3b1704a0befb0932a48e050a0
+
+    00013-0015-Data.dta                 -       3,140     127     2013-11-22  8c9eab68dff08ac9561a4b90c643dcd9
+
+    00013-0015-Data.rda                 -       3,140     127     2013-11-22  e7d17e4970918a65179fd17a37a9de93
+
+    00013-0015-Data.sav                 -       3,140     127     2013-11-22  5a8ae76b7c198a1a863e255e51009d10
+
+    00013-0015-Data.stc                 -       3,140     127     2013-11-22  49454c9e1216633241c05604a85ce631
+
+    00013-0015-Data.tsv                 -       3,140     127     2013-11-22  3d5d6e8e8fd8e3b6ea895f1fade64710
+
+    00013-0015-Data.txt                 869     3,140     127     2013-11-22  4b99943fbcbeb162e650d898f849ec24
+
+    00013-0015-Setup.dct                -       -         -       2013-11-22  b5a081b9940d8debbf3a8e1ef6d6acb1
+
+    00013-0015-Setup.do                 -       -         -       2013-11-22  094101c1ef217dcedd98c441d00b9edf
+
+    00013-0015-Setup.sas                -       -         -       2013-11-22  a68f4972ab404b24cb401f65be2c197d
+
+    00013-0015-Setup.sps                -       -         -       2013-11-22  29b0d57730bbd16a0633898a7cb88aa0
+
+    00013-0015-Supplemental_syntax.do   -       -         -       2013-11-22  b54253e8f7fe7f0bbd7e6db8bbec018a
+
+    00013-0015-Supplemental_syntax.sas  -       -         -       2013-11-22  e18376de5170d5353349f9301bf21972
+
+
+Version History
+
+2013-11-22 The SPSS setup files were updated to conform to current
+standards. SAS and Stata setup files, as well as SPSS and Stata system
+files, a SAS transport (CPORT) file, an R data file, a tab-delimited data
+file, and a PDF codebook have been added to the collection.
