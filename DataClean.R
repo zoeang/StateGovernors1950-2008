@@ -402,4 +402,11 @@ dat1[c(3445:3450),c(4,5)]<-dat1[3444, c(4:5)] #WY
 getwd()
 write.csv(dat1, 'prelimGovDat.csv')
 #==============================
-# Votes for gov 
+# combine unemployment.x and unemployment.y
+#============================
+which(!(is.na(dat$unemployment.x)) & !(is.na(dat$unemployment.y))) #no lines where there are values for both unemployment variables
+dat$unemployment<-ifelse(is.na(dat$unemployment.x), dat$unemployment.y, dat$unemployment.x)
+dat<-dat[, c(2:12,34,14:19, 21:33)]
+
+length(which(!is.na(dat$diff_vote_proportion)))
+
