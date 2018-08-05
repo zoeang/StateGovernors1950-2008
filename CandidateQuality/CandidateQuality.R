@@ -7,3 +7,11 @@ qual<-subset(qual, office=="G") #Subset to gov; original includes Senators
 qual$govparty_a<-ifelse(qual$party=="R", 0, 1)
 
 unique(qual$office)
+
+
+
+#ref code
+#subset both winner and runner up--------------------------------------------------------
+gov_vote3<- gov_vote2 %>% 
+  group_by(state, year) %>% 
+  top_n(2, wt=vote) 

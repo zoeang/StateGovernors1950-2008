@@ -410,3 +410,27 @@ dat<-dat[, c(2:12,34,14:19, 21:33)]
 
 length(which(!is.na(dat$diff_vote_proportion)))
 
+#============================
+# add gross state product
+#============================
+library(data.table)
+
+prelim<-read.csv("C:/Users/zoeja/OneDrive/Documents/Summer 2018/GovernorData/StateGovernors1950-2008/prelimGovDat.csv")
+csp_all<-fread("C:/Users/zoeja/OneDrive/Documents/Summer 2018/GovernorData/correlatesofstatepolicyprojectv1_14.csv")
+csp<-subset(csp_all, year>=1950) #subset to year>= 1950 for ease of creating new columns
+del<-c(which(csp$state=="Hawaii" & csp$year<1959), which(csp$state=="Alaska" & csp$year<1959)) #remove AK and HI pre 1959
+csp<-csp[-del, ]
+prelim$gross_state_product<-csp$gsp_q
+
+
+# Change in GSP: (gsp_1/gsp_0)-1 ------------------------------------
+#Group by year and state to create lag
+library(tidyr)
+library(dplyr)
+library(plyr)
+prelimdt<-data.table(prelim) #convert to data table
+lg <- function(x)c(NA, x[1:(length(x)-1)]) #lag function
+prelimdt2<-prelimdt[,lgsp := lg(gross_state_product), by = c("state")]#lag gsp within state
+prelimdt2$change_gsp<-ifelse(!is.na(prelimdt2$gross_state_product) & !is.na(prelimdt2$lgsp),
+                              (prelimdt2$gross_state_product/prelimdt2$lgsp)-1, NA) #create change_gsp var
+write.csv(prelimdt2[,-1], 'prelimGovDat.csv')
