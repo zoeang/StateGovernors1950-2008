@@ -20,3 +20,6 @@ dat1$runnerup_primary_candidates<-ifelse(is.na(dat1$winner==0), dat1$number_cand
 
 dat2<-dat1[,-c('name', 'winner', 'number_endorsements', 'number_cands')] #remove columns  ##r didn't like this
 dat2<-dat1[,-c(5,6,42,43)]#same thing with numbers 
+dat2<-dat2[,c(7, 1:6, 8:12, 40:43, 13:39)] #rearrange cols
+setwd('C:/Users/zoeja/OneDrive/Documents/Summer 2018/GovernorData/StateGovernors1950-2008')
+write.csv(dat2, 'GovDatFinal.csv')
