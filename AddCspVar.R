@@ -25,4 +25,5 @@ gov<-govdat1%>%
 fin<-read.csv('C:/Users/zoeja/OneDrive/Documents/Summer 2018/GovernorData/StateGovernors1950-2008/GovDatFinal.csv')
 wdebt<-merge(fin, gov, by=c('term_in_office', 'gov_name'), all.x = T)
 wdebt<-wdebt[,c(4:6, 2,1,7:21, 45, 22:44)] #reorder cols, get rid of X index col
+
 write.csv(wdebt, 'GovDatFinal.csv')
